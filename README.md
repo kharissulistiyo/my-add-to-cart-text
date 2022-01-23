@@ -1,5 +1,5 @@
 # My Add to Cart Text
-Add my own text to WooCommerce add to cart button.
+Adds my own text to WooCommerce add to cart button.
 
 ## Installation
 
